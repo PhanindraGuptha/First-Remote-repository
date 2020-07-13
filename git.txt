@@ -6,3 +6,4 @@ here we are going to mention git stages.
 As many commits as we do that will help us to recall the each command while programming.
 
 So better to make more commits while we are developing a program.
+Some more changes in the file for next commit
