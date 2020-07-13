@@ -1,0 +1,8 @@
+Nano is the place where we can adit the files.
+here we are going to mention git stages.
+1.Working Directory,
+2.Staging area,
+3.Commit.
+As many commits as we do that will help us to recall the each command while programming.
+
+So better to make more commits while we are developing a program.
